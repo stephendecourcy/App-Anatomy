@@ -1,5 +1,5 @@
 var prefs = {
-  menu_container : '#top1',
+  menu_container : '#bottom1',
   logo_container : '#bottom2',
-  reload_container : '#bottom1'
+  reload_container : '#top1'
 }
